@@ -1,0 +1,28 @@
+#t7_header ul li{
+	padding: 0px 60px 0px 60px;
+}
+
+.t7_video{
+	margin-bottom: 20px;
+	margin-top: 23px;
+	width: 940px;
+	height: 330px;
+}
+
+#t7_content_front h3{
+	margin-bottom: 20px;
+	}
+
+#t7_text_overlay	{
+	width: 820px;
+	}
+
+#t7cycle .t7_titleprint	{
+	top: 24px !important;
+	z-index: -999;
+	}
+	
+#t7cyclenav.t7cyclenav	{
+	top:125px;
+	z-index: 999;
+	}
